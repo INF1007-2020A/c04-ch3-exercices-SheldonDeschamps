@@ -3,6 +3,7 @@
 
 
 import math
+from math import *
 
 def square_root(a: float) -> float: 
     racine_carre = sqrt(a) 
