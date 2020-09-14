@@ -4,8 +4,7 @@
 
 import math
 
-def square_root(a: float) -> float:
-    from math import *  
+def square_root(a: float) -> float: 
     racine_carre = sqrt(a) 
     return racine_carre
 
