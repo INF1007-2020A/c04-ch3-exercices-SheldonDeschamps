@@ -13,7 +13,7 @@ def square_root(a: float) -> float:
 def square(a: float) -> float:
     from math import *
     nombre_carre = a ^ 2
-    return square
+    return nombre_carre
 
 
 def average(a: float, b: float, c: float) -> float:
