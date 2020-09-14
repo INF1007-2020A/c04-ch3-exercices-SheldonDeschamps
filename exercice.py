@@ -11,7 +11,7 @@ def square_root(a: float) -> float:
 
 
 def square(a: float) -> float:
-    nombre_carre = (a ^ 2)
+    nombre_carre = (a  2)
     return nombre_carre
 
 
