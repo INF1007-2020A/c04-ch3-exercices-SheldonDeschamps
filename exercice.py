@@ -5,14 +5,14 @@
 import math
 
 def square_root(a: float) -> float:
-    from math import * 
+    from math import  *
     square_root = sqrt(a) 
     return square_root
 
 
 def square(a: float) -> float:
-    from math import *
-    
+    from math import 
+
     return 0.0
 
 
