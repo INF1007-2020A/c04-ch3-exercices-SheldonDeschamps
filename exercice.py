@@ -11,7 +11,6 @@ def square_root(a: float) -> float:
 
 
 def square(a: float) -> float:
-    from math import *
     nombre_carre = a ^ 2
     return nombre_carre
 
